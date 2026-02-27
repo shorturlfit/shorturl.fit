@@ -20,7 +20,7 @@ Whether you're sharing links on social media, embedding them in emails, or print
 
 ## Key Features
 
-### 🔗 Custom Branded URL Shortener
+###  Custom Branded URL Shortener
 Turn long, messy URLs into clean, memorable short links. With our **[Branded URL Shortener](https://www.shorturl.fit/custom_url_shortner/)**, you can create custom aliases that reflect your brand name, campaign, or message.
 
 **Why branded links matter:**
@@ -28,10 +28,7 @@ Turn long, messy URLs into clean, memorable short links. With our **[Branded URL
 - They're more shareable on platforms like Twitter/X, LinkedIn, and SMS where space is limited
 - They look professional in presentations, business cards, and printed materials
 
-### 📊 Real-Time Analytics
-Every link you shorten with [shorturl.fit](https://www.shorturl.fit/) gives you access to click-tracking data. See where your clicks are coming from, when they happen, and how your campaigns are performing.
-
-### 📱 QR Code Generator
+###  QR Code Generator
 Need a QR code for your business card, restaurant menu, event flyer, or product packaging? Our **[QR Code Generator](https://www.shorturl.fit/qr_code_generator/)** lets you create scannable QR codes instantly — linked to any URL you choose.
 
 **Common QR code use cases:**
