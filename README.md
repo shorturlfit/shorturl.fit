@@ -1,7 +1,7 @@
 # shorturl.fit — Free Branded URL Shortener & QR Code Generator
 
 <p align="center">
-  <strong>Create branded short links, track clicks in real-time, and generate QR codes — all for free.</strong>
+  <strong>Create branded short links, and generate QR codes — all for free.</strong>
 </p>
 
 <p align="center">
